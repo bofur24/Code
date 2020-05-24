@@ -1,0 +1,13 @@
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\light\OneDrive\Files\Programming\Code\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
